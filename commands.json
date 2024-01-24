@@ -33,6 +33,8 @@
     "clear G1",
     "clear G2",
     "clear G3",
-    "flag G4"
+    "flag G4",
+    "clear G5",
+    "clear G6"
   ]
 }

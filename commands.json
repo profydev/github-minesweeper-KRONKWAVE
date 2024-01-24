@@ -17,7 +17,11 @@
     "Clear E8",
     "Clear E7",
     "Clear E6",
-    Flag E5",
-    
+    "Flag E5",
+    "Clear E4",
+    "clear E3",
+    "flag E2",
+    "clear E1"
+
   ]
 }

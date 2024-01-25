@@ -1,6 +1,15 @@
 {
   "commands": [
     "clear F1",
-    "clear B7"
+    "clear B7",
+    "flag D3",
+    "flag D7",
+    "flag A2",
+    "clear B2",
+    "clear C2",
+    "clear D2",
+    "clear D8",
+    "clear E3",
+    "clear E7"
   ]
 }
